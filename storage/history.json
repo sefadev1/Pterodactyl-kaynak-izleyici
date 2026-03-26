@@ -1,0 +1,2472 @@
+[
+    {
+        "time": "00:55:10",
+        "captured_at": "2026-03-25T00:55:10+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "28d05ef5": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "f23c3f82": {
+                "cpu_percent": 101.24,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:55:20",
+        "captured_at": "2026-03-25T00:55:20+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "28d05ef5": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "f23c3f82": {
+                "cpu_percent": 101.24,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:55:30",
+        "captured_at": "2026-03-25T00:55:30+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "28d05ef5": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "f23c3f82": {
+                "cpu_percent": 101.24,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:55:40",
+        "captured_at": "2026-03-25T00:55:40+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.02,
+                "memory_percent": 25.18
+            },
+            "28d05ef5": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "f23c3f82": {
+                "cpu_percent": 0.27,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:55:49",
+        "captured_at": "2026-03-25T00:55:49+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.02,
+                "memory_percent": 25.18
+            },
+            "28d05ef5": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "f23c3f82": {
+                "cpu_percent": 0.27,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:56:11",
+        "captured_at": "2026-03-25T00:56:11+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.02,
+                "memory_percent": 25.18
+            },
+            "28d05ef5": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "f23c3f82": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:56:34",
+        "captured_at": "2026-03-25T00:56:34+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:56:44",
+        "captured_at": "2026-03-25T00:56:44+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:56:54",
+        "captured_at": "2026-03-25T00:56:54+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:57:13",
+        "captured_at": "2026-03-25T00:57:13+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:57:41",
+        "captured_at": "2026-03-25T00:57:41+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:58:09",
+        "captured_at": "2026-03-25T00:58:09+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:58:32",
+        "captured_at": "2026-03-25T00:58:32+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:58:52",
+        "captured_at": "2026-03-25T00:58:52+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:59:02",
+        "captured_at": "2026-03-25T00:59:02+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.05,
+                "memory_percent": 25.21
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:59:13",
+        "captured_at": "2026-03-25T00:59:13+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.05,
+                "memory_percent": 25.21
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:59:31",
+        "captured_at": "2026-03-25T00:59:31+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:59:40",
+        "captured_at": "2026-03-25T00:59:40+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "00:59:52",
+        "captured_at": "2026-03-25T00:59:52+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:00:09",
+        "captured_at": "2026-03-25T01:00:09+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:00:22",
+        "captured_at": "2026-03-25T01:00:22+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:00:40",
+        "captured_at": "2026-03-25T01:00:40+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:01:00",
+        "captured_at": "2026-03-25T01:01:00+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:01:09",
+        "captured_at": "2026-03-25T01:01:09+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:01:20",
+        "captured_at": "2026-03-25T01:01:20+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:01:51",
+        "captured_at": "2026-03-25T01:01:51+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:02:01",
+        "captured_at": "2026-03-25T01:02:01+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:02:23",
+        "captured_at": "2026-03-25T01:02:23+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:02:35",
+        "captured_at": "2026-03-25T01:02:35+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:02:46",
+        "captured_at": "2026-03-25T01:02:46+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:02:55",
+        "captured_at": "2026-03-25T01:02:55+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:03:03",
+        "captured_at": "2026-03-25T01:03:03+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:03:14",
+        "captured_at": "2026-03-25T01:03:14+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:03:22",
+        "captured_at": "2026-03-25T01:03:22+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:03:31",
+        "captured_at": "2026-03-25T01:03:31+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:03:40",
+        "captured_at": "2026-03-25T01:03:40+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:03:49",
+        "captured_at": "2026-03-25T01:03:49+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:03:58",
+        "captured_at": "2026-03-25T01:03:58+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:04:07",
+        "captured_at": "2026-03-25T01:04:07+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:04:15",
+        "captured_at": "2026-03-25T01:04:15+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:04:24",
+        "captured_at": "2026-03-25T01:04:24+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:04:37",
+        "captured_at": "2026-03-25T01:04:37+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:04:45",
+        "captured_at": "2026-03-25T01:04:45+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:04:55",
+        "captured_at": "2026-03-25T01:04:55+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:05:04",
+        "captured_at": "2026-03-25T01:05:04+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "01:05:15",
+        "captured_at": "2026-03-25T01:05:15+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.18
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:47:46",
+        "captured_at": "2026-03-26T16:47:46+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:47:56",
+        "captured_at": "2026-03-26T16:47:56+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:48:07",
+        "captured_at": "2026-03-26T16:48:07+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:48:17",
+        "captured_at": "2026-03-26T16:48:17+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:48:27",
+        "captured_at": "2026-03-26T16:48:27+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:48:38",
+        "captured_at": "2026-03-26T16:48:38+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:48:48",
+        "captured_at": "2026-03-26T16:48:48+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:49:00",
+        "captured_at": "2026-03-26T16:49:00+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:49:15",
+        "captured_at": "2026-03-26T16:49:15+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:49:27",
+        "captured_at": "2026-03-26T16:49:27+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:49:41",
+        "captured_at": "2026-03-26T16:49:41+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:49:54",
+        "captured_at": "2026-03-26T16:49:54+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:50:05",
+        "captured_at": "2026-03-26T16:50:05+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:50:15",
+        "captured_at": "2026-03-26T16:50:15+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:50:29",
+        "captured_at": "2026-03-26T16:50:29+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:50:40",
+        "captured_at": "2026-03-26T16:50:40+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:50:51",
+        "captured_at": "2026-03-26T16:50:51+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:51:02",
+        "captured_at": "2026-03-26T16:51:02+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:51:14",
+        "captured_at": "2026-03-26T16:51:14+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:51:30",
+        "captured_at": "2026-03-26T16:51:30+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:51:44",
+        "captured_at": "2026-03-26T16:51:44+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:51:58",
+        "captured_at": "2026-03-26T16:51:58+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:52:09",
+        "captured_at": "2026-03-26T16:52:09+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:52:19",
+        "captured_at": "2026-03-26T16:52:19+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:52:29",
+        "captured_at": "2026-03-26T16:52:29+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:52:40",
+        "captured_at": "2026-03-26T16:52:40+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:53:02",
+        "captured_at": "2026-03-26T16:53:02+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:54:38",
+        "captured_at": "2026-03-26T16:54:38+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:54:56",
+        "captured_at": "2026-03-26T16:54:56+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:55:13",
+        "captured_at": "2026-03-26T16:55:13+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:55:23",
+        "captured_at": "2026-03-26T16:55:23+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:55:35",
+        "captured_at": "2026-03-26T16:55:35+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:55:45",
+        "captured_at": "2026-03-26T16:55:45+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:55:55",
+        "captured_at": "2026-03-26T16:55:55+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:56:07",
+        "captured_at": "2026-03-26T16:56:07+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:56:18",
+        "captured_at": "2026-03-26T16:56:18+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:56:29",
+        "captured_at": "2026-03-26T16:56:29+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:56:39",
+        "captured_at": "2026-03-26T16:56:39+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:56:50",
+        "captured_at": "2026-03-26T16:56:50+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:57:02",
+        "captured_at": "2026-03-26T16:57:02+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:57:12",
+        "captured_at": "2026-03-26T16:57:12+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:57:23",
+        "captured_at": "2026-03-26T16:57:23+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:57:33",
+        "captured_at": "2026-03-26T16:57:33+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:57:47",
+        "captured_at": "2026-03-26T16:57:47+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:57:57",
+        "captured_at": "2026-03-26T16:57:57+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:58:07",
+        "captured_at": "2026-03-26T16:58:07+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:58:20",
+        "captured_at": "2026-03-26T16:58:20+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.12,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:58:31",
+        "captured_at": "2026-03-26T16:58:31+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.12,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:58:40",
+        "captured_at": "2026-03-26T16:58:40+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:58:50",
+        "captured_at": "2026-03-26T16:58:50+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:59:00",
+        "captured_at": "2026-03-26T16:59:00+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:59:09",
+        "captured_at": "2026-03-26T16:59:09+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:59:20",
+        "captured_at": "2026-03-26T16:59:20+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:59:29",
+        "captured_at": "2026-03-26T16:59:29+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:59:45",
+        "captured_at": "2026-03-26T16:59:45+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "16:59:56",
+        "captured_at": "2026-03-26T16:59:56+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:00:12",
+        "captured_at": "2026-03-26T17:00:12+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:00:28",
+        "captured_at": "2026-03-26T17:00:28+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:00:51",
+        "captured_at": "2026-03-26T17:00:51+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:01:01",
+        "captured_at": "2026-03-26T17:01:01+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:01:12",
+        "captured_at": "2026-03-26T17:01:12+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:01:22",
+        "captured_at": "2026-03-26T17:01:22+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:01:32",
+        "captured_at": "2026-03-26T17:01:32+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:01:51",
+        "captured_at": "2026-03-26T17:01:51+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:02:02",
+        "captured_at": "2026-03-26T17:02:02+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:02:12",
+        "captured_at": "2026-03-26T17:02:12+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:02:29",
+        "captured_at": "2026-03-26T17:02:29+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:02:40",
+        "captured_at": "2026-03-26T17:02:40+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:02:49",
+        "captured_at": "2026-03-26T17:02:49+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:03:02",
+        "captured_at": "2026-03-26T17:03:02+03:00",
+        "servers": {
+            "fa5f4257": {
+                "cpu_percent": 0.01,
+                "memory_percent": 25.25,
+                "disk_percent": 12.53
+            },
+            "56190fce": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 4.66
+            },
+            "9262628c": {
+                "cpu_percent": 0,
+                "memory_percent": 0,
+                "disk_percent": 0
+            }
+        }
+    },
+    {
+        "time": "17:03:09",
+        "captured_at": "2026-03-26T17:03:09+03:00",
+        "servers": {
+            "alpha1": {
+                "cpu_percent": 26.7,
+                "memory_percent": 2.13,
+                "disk_percent": 6.93
+            },
+            "beta2": {
+                "cpu_percent": 34.1,
+                "memory_percent": 7.43,
+                "disk_percent": 10.27
+            },
+            "gamma3": {
+                "cpu_percent": 48.7,
+                "memory_percent": 14.94,
+                "disk_percent": 14.49
+            },
+            "delta4": {
+                "cpu_percent": 68.2,
+                "memory_percent": 23.94,
+                "disk_percent": 19.31
+            },
+            "omega5": {
+                "cpu_percent": 85.7,
+                "memory_percent": 32.32,
+                "disk_percent": 23.88
+            }
+        }
+    },
+    {
+        "time": "17:03:25",
+        "captured_at": "2026-03-26T17:03:25+03:00",
+        "servers": {
+            "alpha1": {
+                "cpu_percent": 22.3,
+                "memory_percent": 1.56,
+                "disk_percent": 6.38
+            },
+            "beta2": {
+                "cpu_percent": 36.1,
+                "memory_percent": 8.03,
+                "disk_percent": 10.51
+            },
+            "gamma3": {
+                "cpu_percent": 55.3,
+                "memory_percent": 16.96,
+                "disk_percent": 15.3
+            },
+            "delta4": {
+                "cpu_percent": 73.4,
+                "memory_percent": 25.51,
+                "disk_percent": 19.94
+            },
+            "omega5": {
+                "cpu_percent": 84.6,
+                "memory_percent": 32,
+                "disk_percent": 23.76
+            }
+        }
+    },
+    {
+        "time": "17:03:41",
+        "captured_at": "2026-03-26T17:03:41+03:00",
+        "servers": {
+            "alpha1": {
+                "cpu_percent": 23.5,
+                "memory_percent": 1.56,
+                "disk_percent": 6.53
+            },
+            "beta2": {
+                "cpu_percent": 42.4,
+                "memory_percent": 9.98,
+                "disk_percent": 11.29
+            },
+            "gamma3": {
+                "cpu_percent": 61,
+                "memory_percent": 18.68,
+                "disk_percent": 15.99
+            },
+            "delta4": {
+                "cpu_percent": 73.1,
+                "memory_percent": 25.43,
+                "disk_percent": 19.91
+            },
+            "omega5": {
+                "cpu_percent": 78.7,
+                "memory_percent": 30.19,
+                "disk_percent": 23.03
+            }
+        }
+    },
+    {
+        "time": "17:03:57",
+        "captured_at": "2026-03-26T17:03:57+03:00",
+        "servers": {
+            "alpha1": {
+                "cpu_percent": 29.6,
+                "memory_percent": 2.99,
+                "disk_percent": 7.27
+            },
+            "beta2": {
+                "cpu_percent": 48.5,
+                "memory_percent": 11.82,
+                "disk_percent": 12.02
+            },
+            "gamma3": {
+                "cpu_percent": 61.4,
+                "memory_percent": 18.83,
+                "disk_percent": 16.05
+            },
+            "delta4": {
+                "cpu_percent": 67.6,
+                "memory_percent": 23.74,
+                "disk_percent": 19.23
+            },
+            "omega5": {
+                "cpu_percent": 72.2,
+                "memory_percent": 28.22,
+                "disk_percent": 22.25
+            }
+        }
+    }
+]
