@@ -1,4 +1,6 @@
 # Ptero Resource Watch
+![PHP](https://img.shields.io/badge/PHP-8+-777BB4?logo=php&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 Pterodactyl paneli icin hazirlanmis, web tabanli ve acik kaynak bir izleme arayuzudur.
 
